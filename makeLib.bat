@@ -1,1 +1,1 @@
-mklink /j "libs" "D:\modding\factorio\factorioModLibs\modLibs"
+mklink /j "libs" "D:\modding\factorio\factorioModLibs\libs"
