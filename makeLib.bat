@@ -1,1 +1,0 @@
-mklink /j "libs" "D:\modding\factorio\factorioModLibs\libs"
